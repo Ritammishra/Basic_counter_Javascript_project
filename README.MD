@@ -14,8 +14,9 @@ JAVASCRIPT, HTML, CSS
 
 ***  
 ## Screenshots
-
 ![image](./Image/Basic_Counter.png)
+
+[Live Preview](https://basic-counter-js-proj.netlify.app/)
 ***
 ## What i learn from this project
 - How javascript function works.
